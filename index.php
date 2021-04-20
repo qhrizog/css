@@ -6,7 +6,7 @@
     if(isset($_SESSION["sessionId"])){
         echo "Welcome " . $_SESSION["sessionUname"];
     }else{
-        echo "Welcome Home";
+        echo "Holla, mudo";
     }
 ?>
 </h1>
